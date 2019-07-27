@@ -1,28 +1,51 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog & Porfolio`,
+    title: `Ali Salah's Porfolio & Blog`,
     author: `Ali Salah`,
-    description: `A starter blog & portfolio for gatsby.`,
-    siteUrl: `https://gatsby-starter-blog-and-portfolio-demo.netlify.com/`,
+    description: `My portfolio and blog.`,
+    siteUrl: `https://ali.salah.io/`,
     social: {
       twitter: `alisalahio`,
+      github: `alisalahio`,
+      mail: `ali@salah.io`,
     },
     projects: [
       {
-        title: `Gatsby Starter Blog & Portfolio!`,
-        description: `Gatsby official starter with portfolio section added!`,
-        url: `https://gatsby-starter-blog-and-portfolio.netlify.com/`,
+        title: `Sup.`,
+        description: `Your startup needs a status page`,
+        url: `https://supstatus.com/`,
         moreLinks: [
           {
-            type: `Github`,
-            url: `https://github.com/alisalahio/gatsby-starter-blog-and-portfolio`,
+            type: `Product Hunt`,
+            url: `https://www.producthunt.com/posts/sup-status`,
+          },
+          {
+            type: `Twitter`,
+            url: `https://twitter.com/alisalahio/status/1154307393288884227`,
           },
         ],
       },
       {
-        title: `React`,
-        description: `React's homepage is created with Gatsby!`,
-        url: `https://reactjs.org/`,
+        title: `The writing race`,
+        description: `May the faster writer win!`,
+        url: `https://github.com/alisalahio/writing-race/`,
+        moreLinks: [
+          {
+            type: `Product Hunt`,
+            url: `https://www.producthunt.com/posts/the-writing-race`,
+          },
+        ]
+      },
+      {
+        title: `Facebook alternatives`,
+        description: `You can now switch easier!`,
+        url: `https://github.com/alisalahio/facebook-alternatives/`,
+        moreLinks: [
+          {
+            type: `Product Hunt`,
+            url: `https://www.producthunt.com/posts/delete-facebook-wiki`,
+          },
+        ]
       },
     ],
   },
