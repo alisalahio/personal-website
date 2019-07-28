@@ -69,7 +69,7 @@ Apple is trend-setting. It's only followed and never follows.
 
 
 Google uses every social media platform. 
-Apple uses Twitter and YouTube for uploading ads and disables comments. 
+Apple uses Twitter and YouTube for uploading ads and they disable the comments. 
 
 ![1_4Bnzifd84-fvKW6owJYmKg](https://user-images.githubusercontent.com/1072229/62012277-7946e700-b184-11e9-8c45-1756520189a0.jpeg)
 
