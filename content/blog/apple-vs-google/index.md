@@ -16,7 +16,7 @@ Google feels like your easy-going friend you meet everyday. Being close makes yo
 
 ![Google's building](https://user-images.githubusercontent.com/1072229/62012057-83b3b180-b181-11e9-98fa-f33ccca21352.jpg)
 
-Apple feels like your good-looking super-successful friend you're secretly attracted to. They're so busy though, so you only meet once a year.
+Apple feels like your good looking super successful friend you're secretly attracted to. They're so busy though, so you only meet once a year.
 
 ![Apple's building](https://user-images.githubusercontent.com/1072229/62012052-6f6fb480-b181-11e9-9b43-2b921ef4fe94.jpg)
 
@@ -25,14 +25,14 @@ This article answers why do they feel this way? It's all about design and brand.
 # Design
 Both Apple and Google choose simple and minimal design. However, their intent for doing this is very different. 
 
-Google's "simple" is like:
+Google's "simple" is more like:
 - Put main functionality at center.
 - No bullshit unneeded things.
 - Make it easy to use.
 
 ![Google_web_search](https://user-images.githubusercontent.com/1072229/62012094-0472ad80-b182-11e9-9f94-d269ea683d1a.png)
 
-Apple's "simple" is like: 
+Apple's "simple" is more like: 
 - It should look elegant.
 - Don't add visual clutter.
 - Get it slimmer and sexier.
@@ -78,7 +78,7 @@ When Google stops a product. It's not a big deal. It's like your close friend wh
 
 ![new-google-plus](https://user-images.githubusercontent.com/1072229/62012195-57009980-b183-11e9-95c8-b26b23408088.jpg)
 
-If Apple breaks a promise. It's a huge public failure. Everyone talks about it! They're this super-successful friend who is expected to never make a mistake.
+If Apple breaks a promise. It's a huge public failure. Everyone talks about it! They're this super successful friend who is expected to never make a mistake.
 
 ![airpoweriphone8](https://user-images.githubusercontent.com/1072229/62012203-75669500-b183-11e9-8d28-f5e0b2874c65.jpg)
 
