@@ -32,7 +32,7 @@ module.exports = {
         moreLinks: [
           {
             type: `Github`,
-            url: `https://github.com/writing-race`,
+            url: `https://github.com/alisalahio/writing-race`,
           },
           {
             type: `Product Hunt`,
@@ -41,10 +41,14 @@ module.exports = {
         ]
       },
       {
-        title: `Facebook alternatives`,
-        description: `You can now switch easier!`,
-        url: `https://github.com/alisalahio/facebook-alternatives/`,
+        title: `Facebook Alternatives`,
+        description: `FB Alternatives to make the switch easier!`,
+        url: `https://facebook-alternatives.salah.io/`,
         moreLinks: [
+          {
+            type: `Github`,
+            url: `https://www.github.com/alisalahio/facebook-alternatives`,
+          },
           {
             type: `Product Hunt`,
             url: `https://www.producthunt.com/posts/delete-facebook-wiki`,
