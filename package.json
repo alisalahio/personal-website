@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-blog-and-portfolio",
+  "name": "alisalahio",
   "private": true,
-  "description": "A starter for your blog and portfolio powered by Gatsby and Markdown",
+  "description": "My personal portfolio and blog",
   "version": "0.1.0",
   "author": "Ali Salah <ali@salah.io>",
   "bugs": {
@@ -38,7 +38,7 @@
   "devDependencies": {
     "prettier": "^1.18.2"
   },
-  "homepage": "https://github.com/alisalahio/gatsby-starter-blog-and-portfolio#readme",
+  "homepage": "https://github.com/alisalahio/alisalahio#readme",
   "keywords": [
     "gatsby"
   ],
@@ -46,7 +46,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alisalahio/gatsby-starter-blog-and-portfolio.git"
+    "url": "git+https://github.com/alisalahio/alisalahio.git"
   },
   "scripts": {
     "build": "gatsby build",

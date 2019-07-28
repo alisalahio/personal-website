@@ -26,10 +26,14 @@ module.exports = {
         ],
       },
       {
-        title: `The writing race`,
+        title: `The Writing Race`,
         description: `May the faster writer win!`,
-        url: `https://github.com/alisalahio/writing-race/`,
+        url: `https://writing-race.salah.io/`,
         moreLinks: [
+          {
+            type: `Github`,
+            url: `https://github.com/writing-race`,
+          },
           {
             type: `Product Hunt`,
             url: `https://www.producthunt.com/posts/the-writing-race`,
