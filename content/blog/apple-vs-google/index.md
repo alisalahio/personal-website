@@ -1,5 +1,5 @@
 ---
-title: Why is Apple different from Google?
+title: Why Apple feels different than Google?
 date: "2019-06-16T12:21:58.268Z"
 template: "post"
 draft: false
