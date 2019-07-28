@@ -50,7 +50,7 @@ Apple makes products that should attract you to "buy." They need Airpods to be u
 
 
 # Brand
-Apple's brand is godly. Google brand is friendly.
+Google's brand is friendly. Apple's brand is godly.
 
 ![1500x500](https://user-images.githubusercontent.com/1072229/62012164-e48fb980-b182-11e9-9c69-e86cd1a3a52d.jpg)
 
@@ -63,20 +63,24 @@ Google's logo is colorful. Apple's logo is set in stone.
 Google is famous to put pointless easter eggs and april fool jokes.
 Apple is trend-setting. It's only followed and never follows.
 
+![Google-fidget-spinner](https://user-images.githubusercontent.com/1072229/62012258-4dc3fc80-b184-11e9-9b52-2310b864257d.jpg)
+
 Google uses every social media platform. 
 Apple uses YouTube for uploading ads and disables comments. 
 
-This gives rise to interesting outcomes:
-You like using a Google products.
-You are attracted to buy an Apple product.
+![1_4Bnzifd84-fvKW6owJYmKg](https://user-images.githubusercontent.com/1072229/62012277-7946e700-b184-11e9-8c45-1756520189a0.jpeg)
 
 ![new-google-plus](https://user-images.githubusercontent.com/1072229/62012195-57009980-b183-11e9-95c8-b26b23408088.jpg)
 
 When Google stops a product. It's not a big deal. It's like your close friend when they break a promise. 
 You'll accept it and remind yourself of the many good things they do.
 
+![airpoweriphone8](https://user-images.githubusercontent.com/1072229/62012203-75669500-b183-11e9-8d28-f5e0b2874c65.jpg)
+
 If Apple breaks a promise. It's a huge public failure. Everyone talks about it! They're this super-successful friend who should never make a mistake.
 
-![airpoweriphone8](https://user-images.githubusercontent.com/1072229/62012203-75669500-b183-11e9-8d28-f5e0b2874c65.jpg)
+You like using a Google products.
+You are attracted to buy an Apple product.
+
 
 
