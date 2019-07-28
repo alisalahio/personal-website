@@ -45,7 +45,7 @@ Google makes tools that they want you to **use** everyday. They want it be easy.
 
 ![Google-Pixel-3-PIXEL-3-XL](https://user-images.githubusercontent.com/1072229/62012142-9d092d80-b182-11e9-93c9-a3d7edd748ef.jpg)
 
-Apple makes products that should attract you to **buy**. They need Airpods to be unique status symbols. When you're asked why you use them, you say they just work. It's a good excuse because they actually do!
+Apple makes products that should attract you to **buy**. They need Airpods to be unique status symbols. When you're asked why you use them, you say they just work. And they actually do!
 
 ![AirPods-The-Apple-Post](https://user-images.githubusercontent.com/1072229/62012130-76e38d80-b182-11e9-9a5d-4413c643ca77.png)
 
