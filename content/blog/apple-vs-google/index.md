@@ -83,10 +83,10 @@ If Apple breaks a promise. It's a huge public failure. Everyone talks about it! 
 ![airpoweriphone8](https://user-images.githubusercontent.com/1072229/62012203-75669500-b183-11e9-8d28-f5e0b2874c65.jpg)
 
 
-End result:
+# End result:
 
-You like using Google products.
-You're attracted to buy an Apple product.
+- You like using Google products.
+- You're attracted to buy an Apple product.
 
 
 
