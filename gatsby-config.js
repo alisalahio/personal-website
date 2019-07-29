@@ -12,7 +12,7 @@ module.exports = {
     projects: [
       {
         title: `Sup.`,
-        description: `Your startup needs a status page`,
+        description: `Your startup needs a status page!`,
         url: `https://supstatus.com/`,
         moreLinks: [
           {
@@ -20,14 +20,14 @@ module.exports = {
             url: `https://www.producthunt.com/posts/sup-status`,
           },
           {
-            type: `Twitter`,
+            type: `Tweet`,
             url: `https://twitter.com/alisalahio/status/1154307393288884227`,
           },
         ],
       },
       {
         title: `The Writing Race`,
-        description: `May the faster writer win!`,
+        description: `May the faster writer win.`,
         url: `https://writing-race.salah.io/`,
         moreLinks: [
           {
@@ -41,8 +41,8 @@ module.exports = {
         ]
       },
       {
-        title: `Facebook Alternatives`,
-        description: `FB Alternatives to make the switch easier!`,
+        title: `FB Alternatives`,
+        description: `Make the switch easier.`,
         url: `https://facebook-alternatives.salah.io/`,
         moreLinks: [
           {
