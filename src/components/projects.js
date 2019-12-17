@@ -46,26 +46,30 @@ const Projects = () => {
           Recent Projects
         </h3>
       </div>
-      <div>
+      <div style={{ marginTop: 40 }}>
         {projects.map(project => {
           const { title, description, url, moreLinks } = project
           return (
-            <div key={title}>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
+            <div 
+              key={title} 
+              style={{ 
+                display: `flex`,
+              }}
+            >
+              <p>
                 <a
                   href={url}
-                  style={{ boxShadow: `none` }}
+                  style={{ 
+                    boxShadow: `none`, 
+                    textDecoration: `underline`, 
+                    fontWeight: `900`,
+                    marginRight: 10
+                  }}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   {title}
                 </a>
-              </h3>
-              <p>
                 {description}
                 {moreLinks &&
                   moreLinks.map(link => (

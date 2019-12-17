@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Ali Salah`,
     author: `Ali Salah`,
-    description: `My portfolio and blog.`,
+    description: `My projects and writings.`,
     siteUrl: `https://ali.salah.io/`,
     social: {
       twitter: `alisalahio`,
@@ -11,8 +11,8 @@ module.exports = {
     },
     projects: [
       {
-        title: `Sup.`,
-        description: `Your startup needs a status page!`,
+        title: `Supstatus.com`,
+        description: `Your new status page.`,
         url: `https://supstatus.com/`,
         moreLinks: [
           {
@@ -26,14 +26,21 @@ module.exports = {
         ],
       },
       {
-        title: `The Writing Race`,
-        description: `May the faster writer win.`,
-        url: `https://writing-race.salah.io/`,
+        title: `Sipreads.com`,
+        description: `Takeaways from nonfiction books.`,
+        url: `https://sipreads.com/`,
         moreLinks: [
           {
-            type: `Github`,
-            url: `https://github.com/alisalahio/writing-race`,
+            type: `Product Hunt`,
+            url: `https://www.producthunt.com/posts/sipreads`,
           },
+        ],
+      },
+      {
+        title: `The Writing Race`,
+        description: `May the faster writer win.`,
+        url: `https://github.com/alisalahio/writing-race`,
+        moreLinks: [
           {
             type: `Product Hunt`,
             url: `https://www.producthunt.com/posts/the-writing-race`,
@@ -43,12 +50,8 @@ module.exports = {
       {
         title: `FB Alternatives`,
         description: `Make the switch easier.`,
-        url: `https://facebook-alternatives.salah.io/`,
+        url: `https://www.github.com/alisalahio/facebook-alternatives`,
         moreLinks: [
-          {
-            type: `Github`,
-            url: `https://www.github.com/alisalahio/facebook-alternatives`,
-          },
           {
             type: `Product Hunt`,
             url: `https://www.producthunt.com/posts/delete-facebook-wiki`,
@@ -115,7 +118,6 @@ module.exports = {
         icon: `content/assets/ali-icon.png`,
       },
     },
-    `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-typography`,

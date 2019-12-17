@@ -40,6 +40,7 @@ const Bio = () => {
       style={{
         display: `flex`,
         marginBottom: rhythm(2.5),
+        alignItems: `center`,
       }}
     >
       <Image
@@ -55,9 +56,9 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
-      <p>
-        Hi I'm <strong>{author}</strong>, a developer & maker. I make cool stuff!
-        <br />
+      <p style={{ margin: 0 }}>
+        Hi I'm <a href={`https://twitter.com/${social.twitter}`}>{author}</a>, I make cool stuff!
+        {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           Twitter
         </a>

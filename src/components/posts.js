@@ -33,7 +33,7 @@ const Posts = () => {
           style={{
             ...scale(0.2),
             fontFamily: `Montserrat, sans-serif`,
-            marginTop: rhythm(3),
+            marginTop: 50,
             marginBottom: 0,
             color: "grey",
             textTransform: "uppercase",
