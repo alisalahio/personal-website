@@ -7,4 +7,4 @@
 
 ## My blog and portfolio
 
-This was generated using [Gatsby blog and portfolio starter](https://github.com/alisalahio/gatsby-starter-blog-and-portfolio) that I created. If you wanna create a similar personal website, you can use it :D
+This was generated using [Gatsby blog and portfolio starter](https://github.com/alisalahio/gatsby-starter-blog-and-portfolio) that I also created. If you want to create a similar personal website, feel free to use it :D
