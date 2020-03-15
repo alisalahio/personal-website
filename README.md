@@ -1,8 +1,8 @@
 ### 🙋🏻‍♂️ Made by [@alisalahio](https://twitter.com/alisalahio)  
 
-### Other projects:
-- 🙀 [Sup](https://supstatus.com) - The status page for your startup.
-- 🤓 [Sipreads](https://sipreads.com) - Takaways from the best nonfiction books.
+### Projects:
+- 🙀 [Instatus](https://instatus.com) - Hosted status pages.
+- 🤓 [Sipreads](https://sipreads.com) - Nonfiction book summaries.
 --- 
 
 ## My blog and portfolio
