@@ -1,8 +1,8 @@
 ### 🙋🏻‍♂️ Made by [@alisalahio](https://twitter.com/alisalahio)  
 
 ### Projects:
-- 🙀 [Instatus](https://instatus.com) - Hosted status pages.
-- 🤓 [Sipreads](https://sipreads.com) - Nonfiction book summaries.
+- 🙀 [Instatus](https://instatus.com) - Get a hosted status pages.
+- 🤓 [Sipreads](https://sipreads.com) - Read nonfiction book summaries.
 --- 
 
 ## My blog and portfolio
