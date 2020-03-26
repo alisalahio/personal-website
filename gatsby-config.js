@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Ali Salah`,
     author: `Ali Salah`,
-    description: `My projects and writings.`,
+    description: `My projects and posts.`,
     siteUrl: `https://ali.salah.io/`,
     social: {
       twitter: `alisalahio`,
@@ -11,52 +11,14 @@ module.exports = {
     },
     projects: [
       {
-        title: `Supstatus.com`,
-        description: `Your new status page.`,
-        url: `https://supstatus.com/`,
-        moreLinks: [
-          {
-            type: `Product Hunt`,
-            url: `https://www.producthunt.com/posts/sup-status`,
-          },
-          {
-            type: `Tweet`,
-            url: `https://twitter.com/alisalahio/status/1154307393288884227`,
-          },
-        ],
+        title: `Instatus.com`,
+        description: `Get your status page in 15 seconds.`,
+        url: `https://instatus.com/`,
       },
       {
         title: `Sipreads.com`,
         description: `Takeaways from nonfiction books.`,
         url: `https://sipreads.com/`,
-        moreLinks: [
-          {
-            type: `Product Hunt`,
-            url: `https://www.producthunt.com/posts/sipreads`,
-          },
-        ],
-      },
-      {
-        title: `The Writing Race`,
-        description: `May the faster writer win.`,
-        url: `https://github.com/alisalahio/writing-race`,
-        moreLinks: [
-          {
-            type: `Product Hunt`,
-            url: `https://www.producthunt.com/posts/the-writing-race`,
-          },
-        ]
-      },
-      {
-        title: `FB Alternatives`,
-        description: `Make the switch easier.`,
-        url: `https://www.github.com/alisalahio/facebook-alternatives`,
-        moreLinks: [
-          {
-            type: `Product Hunt`,
-            url: `https://www.producthunt.com/posts/delete-facebook-wiki`,
-          },
-        ]
       },
     ],
   },
@@ -115,7 +77,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/ali-icon.png`,
+        icon: `content/assets/memoji.png`,
       },
     },
     `gatsby-plugin-react-helmet`,

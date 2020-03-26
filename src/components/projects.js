@@ -8,7 +8,7 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
-import { rhythm, scale } from "../utils/typography"
+import { scale } from "../utils/typography"
 
 const Projects = () => {
   const data = useStaticQuery(graphql`
@@ -19,10 +19,6 @@ const Projects = () => {
             title
             url
             description
-            moreLinks {
-              type
-              url
-            }
           }
         }
       }
@@ -43,7 +39,7 @@ const Projects = () => {
             textTransform: "uppercase",
           }}
         >
-          Recent Projects
+          Current projects
         </h3>
       </div>
       <div style={{ marginTop: 40 }}>
@@ -61,16 +57,16 @@ const Projects = () => {
                   href={url}
                   style={{ 
                     boxShadow: `none`, 
-                    textDecoration: `underline`, 
-                    fontWeight: `900`,
-                    marginRight: 10
+                    textDecoration: `none`, 
                   }}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  {title}
+                  <h3 style={{ display: 'inline', ...scale(0.25) }}>{title}</h3>
                 </a>
-                {description}
+                <span style={{ marginLeft: 10, ...scale(0.2) }}>
+                  {description}
+                </span>
                 {moreLinks &&
                   moreLinks.map(link => (
                     <a

@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import { rhythm, scale } from "../utils/typography"
+import { rhythm } from "../utils/typography"
 
 class Layout extends React.Component {
   render() {
@@ -50,7 +50,7 @@ class Layout extends React.Component {
         >
           © {new Date().getFullYear()},
           {` `}
-          <a href="https://twitter.com/alisalahio">
+          <a style={{ boxShadow: 'none' }} href="https://twitter.com/alisalahio">
             Ali Salah
           </a>
         </footer>
