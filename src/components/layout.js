@@ -50,7 +50,7 @@ class Layout extends React.Component {
         >
           © {new Date().getFullYear()},
           {` `}
-          <a style={{ boxShadow: 'none' }} href="https://twitter.com/alisalahio">
+          <a style={{ fontWeight: 900, boxShadow: 'none' }} href="https://twitter.com/alisalahio">
             Ali Salah
           </a>
         </footer>

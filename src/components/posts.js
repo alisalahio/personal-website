@@ -56,8 +56,9 @@ const Posts = () => {
                   {title}
                 </Link>
               </h3>
-              <small>{node.frontmatter.date}</small>
+              <span style={{ fontWeight: 300, fontStyle: 'italic' }}>{node.frontmatter.date} – </span>
               <p
+                style={{ display: 'inline' }}
                 dangerouslySetInnerHTML={{
                   __html: node.frontmatter.description || node.excerpt,
                 }}

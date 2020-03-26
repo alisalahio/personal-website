@@ -56,19 +56,19 @@ const Projects = () => {
                 <a
                   href={url}
                   style={{ 
-                    fontWeight: `bold`,
+                    fontWeight: 900,
                     boxShadow: `none`, 
                     textDecoration: `none`, 
-                    ...scale(0.25),
+                    ...scale(0.4),
                   }}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   {title}
                 </a>
-                <span style={{ marginLeft: 10, ...scale(0.2) }}>
+                <p>
                   {description}
-                </span>
+                </p>
                 {moreLinks &&
                   moreLinks.map(link => (
                     <a
