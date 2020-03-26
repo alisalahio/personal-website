@@ -56,13 +56,15 @@ const Projects = () => {
                 <a
                   href={url}
                   style={{ 
+                    fontWeight: `bold`,
                     boxShadow: `none`, 
                     textDecoration: `none`, 
+                    ...scale(0.25),
                   }}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <h3 style={{ display: 'inline', ...scale(0.25) }}>{title}</h3>
+                  {title}
                 </a>
                 <span style={{ marginLeft: 10, ...scale(0.2) }}>
                   {description}
