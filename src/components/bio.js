@@ -39,16 +39,16 @@ const Bio = () => {
     <div
       style={{
         display: `flex`,
+        flexDirection: `column`,
         marginBottom: rhythm(2.5),
-        alignItems: `center`,
       }}
     >
       <Image
         fixed={data.avatar.childImageSharp.fixed}
         alt={author}
         style={{
-          marginRight: rhythm(1 / 2),
-          marginBottom: 0,
+          marginLeft: -16,
+          marginBottom: rhythm(2/3),
           minWidth: 50,
           borderRadius: `100%`,
         }}
@@ -57,7 +57,7 @@ const Bio = () => {
         }}
       />
       <p style={{ margin: 0 }}>
-        Hi I'm {author}, I create cool stuff!
+        Hi I'm {author}, I create cool internet stuff.
         <br />
         You can find me on
         {` `}
@@ -68,10 +68,10 @@ const Bio = () => {
         <a style={{ fontWeight: 900, boxShadow: 'none' }} href={`https://github.com/${social.github}`}>
           Github
         </a>
-        {` or contact me at `}
+        {` or email me `}
         <a style={{ fontWeight: 900, boxShadow: 'none' }} href={`mailto:${social.mail}`}>
           {social.mail}
-        </a>
+        </a>.
       </p>
     </div>
   )
