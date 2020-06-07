@@ -61,15 +61,15 @@ const Bio = () => {
         <br />
         You can find me on
         {` `}
-        <a style={{ fontWeight: 900, boxShadow: 'none' }} href={`https://twitter.com/${social.twitter}`}>
+        <a rel="me" style={{ fontWeight: 900, boxShadow: 'none' }} href={`https://twitter.com/${social.twitter}`}>
           Twitter
         </a>
         {`, `}
-        <a style={{ fontWeight: 900, boxShadow: 'none' }} href={`https://github.com/${social.github}`}>
+        <a rel="me" style={{ fontWeight: 900, boxShadow: 'none' }} href={`https://github.com/${social.github}`}>
           Github
         </a>
         {` or email me `}
-        <a style={{ fontWeight: 900, boxShadow: 'none' }} href={`mailto:${social.mail}`}>
+        <a rel="me" style={{ fontWeight: 900, boxShadow: 'none' }} href={`mailto:${social.mail}`}>
           {social.mail}
         </a>.
       </p>
