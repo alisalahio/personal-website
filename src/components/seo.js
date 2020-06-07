@@ -68,7 +68,10 @@ function SEO({ description, lang, meta, title }) {
           content: metaDescription,
         },
       ].concat(meta)}
-    />
+    >
+      <link rel="webmention" href="https://webmention.io/ali.salah.io/webmention" />
+      <link rel="pingback" href="https://webmention.io/ali.salah.io/xmlrpc" />
+    </Helmet>
   )
 }
 
